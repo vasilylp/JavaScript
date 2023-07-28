@@ -4,4 +4,4 @@ function greeting(name) {
 }
 
 let yourName = prompt("Введите ваше имя: ")
-console.log(greeting(yourName))
+greeting(yourName)
